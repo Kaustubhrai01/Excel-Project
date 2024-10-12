@@ -16,3 +16,4 @@ Tools Used:
 	•	Data Validation and Conditional Formatting
 
 This project demonstrates proficiency in data cleaning, analysis, and visualization using Excel, providing insights into sales performance and aiding decision-making.
+![WhatsApp Image 2024-10-11 at 4 16 08 PM](https://github.com/user-attachments/assets/a6ed9225-244b-4769-b8d6-da294fab31ba)
